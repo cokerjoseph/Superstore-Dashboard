@@ -13,7 +13,7 @@ Below is an overview of the primary financial and operational metrics synthesize
 
 | Metric | Value | Description / Note |
 | :--- | :--- | :--- |
-| **Total Revenue / Sales** | **$2,030,000.00** | Gross sales generated across all categories and regions |
+| **Total Revenue / Sales** | **$2,300,000.00** | Gross sales generated across all categories and regions |
 | **Total Profit** | **$286,400.00** | Net profit realized over the 4-year period |
 | **Overall Profit Margin** | **12.47%** | Indicates potential margin erosion via discounting or cost structures |
 | **Total Orders Processed** | **9,994** | Total volume of fulfilled customer transactions |
