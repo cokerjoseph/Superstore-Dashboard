@@ -3,7 +3,7 @@
 
 ## 📌 Executive Summary
 
-This repository contains a comprehensive analytics project evaluating **$2.03M in historical sales data** (2014–2017) from the **Superstore Dataset**. The objective of this study is to analyze key business drivers, evaluate regional operational performance, assess segment/category growth, and provide data-driven strategic recommendations to optimize profitability and resource allocation.
+This repository contains a comprehensive analytics project evaluating **$2.3M in historical sales data** (2014–2017) from the **Superstore Dataset**. The objective of this study is to analyze key business drivers, evaluate regional operational performance, assess segment/category growth, and provide data-driven strategic recommendations to optimize profitability and resource allocation.
 
 ---
 
@@ -54,19 +54,3 @@ Below is an overview of the primary financial and operational metrics synthesize
 
 ---
 
-## 📂 Project Structure
-
-```text
-superstore-sales-analysis/
-├── data/
-│   ├── raw/                 # Original Superstore dataset files
-│   └── processed/           # Cleaned & transformed datasets
-├── notebooks/
-│   ├── 01_eda_sales.ipynb   # Exploratory Data Analysis
-│   └── 02_margin_audit.ipynb # Profitability & discounting analysis
-├── dashboards/
-│   └── superstore_bi.pbix   # Power BI Dashboard file
-├── reports/
-│   └── Executive_Summary.pdf # Formal executive report
-├── README.md                # Project documentation
-└── requirements.txt         # Dependencies for reproduction
